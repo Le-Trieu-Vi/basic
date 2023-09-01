@@ -1,0 +1,71 @@
+[
+    {
+        "id": 1,
+        "name": "Tao",
+        "price": 12000,
+        "rating": 4.5
+    },
+
+    {
+        "id": 2,
+        "name": "Chuoi",
+        "price": 7000,
+        "rating": 4.3
+    },
+
+    {
+        "id": 3,
+        "name": "Thom",
+        "price": 10000,
+        "rating": 4.7
+    },
+
+    {
+        "id": 4,
+        "name": "Cam",
+        "price": 6000,
+        "rating": 4.9
+    },
+
+    {
+        "id": 5,
+        "name": "Le",
+        "price": 14000,
+        "rating": 5.0
+    },
+
+    {
+        "id": 6,
+        "name": "Man",
+        "price": 8000,
+        "rating": 4.6
+    },
+
+    {
+        "id": 7,
+        "name": "Dua hau",
+        "price": 6000,
+        "rating": 4.5
+    },
+
+    {
+        "id": 8,
+        "name": "Dao",
+        "price": 18000,
+        "rating": 4.3
+    },
+
+    {
+        "id": 9,
+        "name": "Xoai",
+        "price": 4000,
+        "rating": 4.6
+    },
+
+    {
+        "id": 10,
+        "name": "Dua",
+        "price": 13000,
+        "rating": 4.5
+    }
+]
